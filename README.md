@@ -46,8 +46,12 @@ java HashSymbolTable
 
 ### Project Structure
 
-HashSymbolTable.java: The main class implementing the hash table.  
-SymbolTable.java: The interface defining the methods for the hash table.  
+HashSymbolTable/
+├── src/  
+│   └── HashSymbolTable.java    
+├── README.md              
+├── LICENSE                
+└── .gitignore             
 
 ### Contributing
 Contributions are welcome! Please open an issue or submit a pull request with any improvements or bug fixes.
