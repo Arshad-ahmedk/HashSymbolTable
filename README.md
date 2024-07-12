@@ -46,7 +46,7 @@ java HashSymbolTable
 
 ### Project Structure
 
-HashSymbolTable/
+HashSymbolTable/  
 ├── src/  
 │   └── HashSymbolTable.java    
 ├── README.md              
